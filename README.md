@@ -1,6 +1,6 @@
 # Arkessiah
 <div align="center">
-  <img height="150" src="https://github.com/Arkessiah/arkessiah/blob/master/arkessiah.webp"  />
+  <img height="550" src="https://github.com/Arkessiah/arkessiah/blob/master/arkessiah.webp"  />
 </div>
 
 ###
