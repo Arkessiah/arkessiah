@@ -1,6 +1,6 @@
 # Arkessiah
 <div align="center">
-  <img height="550" src="https://github.com/Arkessiah/arkessiah/blob/master/arkessiah.webp"  />
+  <img height="450" src="https://github.com/Arkessiah/arkessiah/blob/master/arkessiah.webp"  />
 </div>
 
 ###
@@ -24,12 +24,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arkessiah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -205,10 +199,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Arkessiah/Arkessiah/output/snake.svg" alt="Snake animation" />
 
 ###
 
