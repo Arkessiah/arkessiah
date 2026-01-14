@@ -140,6 +140,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Arkessiah/Arkessiah/output/snake.svg" alt="Snake animation" />
-
-###
