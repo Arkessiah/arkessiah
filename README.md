@@ -86,7 +86,6 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="Retrieval-Augmented Generation (RAG)" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
 </p>
 
@@ -223,11 +222,12 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&theme=light" alt="MongoDB, PostgreSQL, MySQL, Redis, Firebase, SQLite" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite,prisma&theme=light" alt="MongoDB, PostgreSQL, MySQL, Redis, Firebase, SQLite, Prisma" />
   </picture>
   <br>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
 </p>
 
 ###
