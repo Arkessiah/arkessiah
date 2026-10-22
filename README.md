@@ -92,16 +92,27 @@
 
 ###
 
-<h3 align="left">🧭 Agent Frameworks & Decision Models</h3>
+<h3 align="left">🧭 Agent Frameworks</h3>
 
 ###
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/OpenClaw-C2410C?style=for-the-badge" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/Hermes_Agent-3B3B98?style=for-the-badge" alt="Hermes Agent (Nous Research)" />
   <img src="https://img.shields.io/badge/Mixture--of--Agents-1E3A8A?style=for-the-badge" alt="Mixture-of-Agents" />
   <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-334155?style=for-the-badge" alt="Multi-agent orchestration" />
   <img src="https://img.shields.io/badge/Self--Improving_Agents-065F46?style=for-the-badge" alt="Self-improving agents" />
+</p>
+
+###
+
+<h3 align="left">🔬 Exploring: Decision Models</h3>
+
+###
+
+<p align="left">
   <img src="https://img.shields.io/badge/JEV-7C3AED?style=for-the-badge" alt="JEV decision model" />
   <img src="https://img.shields.io/badge/LAYA-0E7490?style=for-the-badge" alt="LAYA decision model" />
 </p>
